@@ -8,10 +8,10 @@ A Python 3 Mini-Game!
 
 Good Luck!
 
-Upcoming Features:
+Upcoming Features
 Marking a hit with "B".
 Labeling borders & rows.
 Using inputs 1-5.
-Adding additional Battleships
+Adding additional Battleships.
 Mulitplayer!
 And more!
